@@ -1,0 +1,12 @@
+Setup:
+
+1. Extract both files
+2. Disable anti-virus
+3. Open bootstrapper in B
+4. Open application in Dir
+
+Interface:
+
+Paperclip = Inject
+Eraser = clear
+Play = execute script
